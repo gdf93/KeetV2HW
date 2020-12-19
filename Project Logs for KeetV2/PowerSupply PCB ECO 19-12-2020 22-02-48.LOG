@@ -1,0 +1,22 @@
+Added Component: Designator=IC1(SON50P300X300X80-13N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LMR23615DRRR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lmr23615drrr/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/lmr23615.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LMR23615DRRR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-LMR23615DRRR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMR23615DRRR?qs=fAHHVMwC%252BbjN885utBLFRg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=IC1-1
+Added Pin To Net: NetName=NetC1_2 Pin=IC1-2
+Added Pin To Net: NetName=NetC1_1 Pin=IC1-3
+Added Pin To Net: NetName=NetC6_2 Pin=IC1-4
+Added Pin To Net: NetName=NetC4_1 Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_6 Pin=IC1-6
+Added Pin To Net: NetName=V12V Pin=IC1-7
+Added Pin To Net: NetName=DCEN Pin=IC1-8
+Added Pin To Net: NetName=V12V Pin=IC1-9
+Added Pin To Net: NetName=V12V Pin=IC1-10
+Added Pin To Net: NetName=V12V Pin=IC1-12
+Added Pin To Net: NetName=V12V Pin=IC1-13
+Added Member To Class: ClassName=PowerSupply Member=Component IC1 LMR23615DRRR
