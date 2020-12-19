@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=V12V Pin=C2-2
+Removed Pin From Net: NetName=V12V Pin=C3-2
+Removed Pin From Net: NetName=V12V Pin=IC1-9
+Removed Pin From Net: NetName=V12V Pin=IC1-10
+Removed Pin From Net: NetName=V12V Pin=IC3-2
+Removed Pin From Net: NetName=V12V Pin=M1-2
+Removed Pin From Net: NetName=V12V Pin=PAD7-1
+Removed Pin From Net: NetName=V12V Pin=R2-2
+Removed Pin From Net: NetName=V12V Pin=Z1-3
+Change Net Name : Old Net Name=V12V New Net Name=GND
+Added Pin To Net: NetName=V12V Pin=C2-2
+Added Pin To Net: NetName=V12V Pin=C3-2
+Added Pin To Net: NetName=V12V Pin=IC1-9
+Added Pin To Net: NetName=V12V Pin=IC1-10
+Added Pin To Net: NetName=V12V Pin=IC3-2
+Added Pin To Net: NetName=V12V Pin=M1-2
+Added Pin To Net: NetName=V12V Pin=PAD7-1
+Added Pin To Net: NetName=V12V Pin=R2-2
+Added Pin To Net: NetName=V12V Pin=Z1-3
+Added Net: Name=V12V
