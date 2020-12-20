@@ -1,0 +1,16 @@
+Added Component: Designator=M2(SOT96P240X120-3N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "DMP1045U-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dmp1045u-7/diodes-incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-emea.rs-online.com/webdocs/1325/0900766b813253b4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DMP1045U-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-DMP1045U-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMP1045U-7?qs=T%2FOtf55vL7eEKnIWhgMvTQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC3_3 Pin=M2-1
+Added Pin To Net: NetName=NetC7_1 Pin=M2-2
+Added Pin To Net: NetName=V4V Pin=M2-3
+Change Net Name : Old Net Name=GND New Net Name=BAT-
+Change Net Name : Old Net Name=NetC7_1 New Net Name=BAT+
+Added Member To Class: ClassName=PowerSupply Member=Component M2 DMP1045U-7
+Added Member To Class: ClassName=PowerSupply Member=Component R1 88.7K
