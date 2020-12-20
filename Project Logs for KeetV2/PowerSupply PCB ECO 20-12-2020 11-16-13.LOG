@@ -1,0 +1,14 @@
+Change Component Comment : Designator=C3 Old Comment=10u New Comment=4.7u
+Change Component Designator: OldDesignator=  NewDesignator=C1
+Change component parameters: Designator = "C3"; Footprint = "CAPC1608X100N"; UniqueID = "\STEBEYXR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/TMK107BBJ475MA-T.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TMK107BBJ475MA-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "963-TMK107BBJ475MA-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Taiyo-Yuden/TMK107BBJ475MA-T/?qs=lkMpTOwszhelZanMHR3qIw%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=PowerSupply Member=Component C1 100n
+Added Member To Class: ClassName=PowerSupply Member=Component C4 51p
