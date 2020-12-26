@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=RST Pin=R6-1
+Removed Pin From Net: NetName=V4V Pin=R6-2
+Change Component Designator: OldDesignator=PAD? NewDesignator=PAD8
+Change Component Designator: OldDesignator=PAD? NewDesignator=PAD9
+Change Component Designator: OldDesignator=PAD? NewDesignator=PAD10
+Change Component Designator: OldDesignator=PAD? NewDesignator=PAD11
+Change Component Designator: OldDesignator=PAD? NewDesignator=PAD12
+Change Component Designator: OldDesignator=PAD? NewDesignator=PAD13
+Change Component Designator: OldDesignator=PAD? NewDesignator=PAD14
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Added Component: Designator=R11(RESC1005X35N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw040210k0fkedc/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://rs.componentsearchengine.com/Datasheets/2/CRCW040210K0FKEDC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW040210K0FKEDC?qs=E3Y5ESvWgWPiNLcGzwCGPg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetM1_1 Pin=R6-2
+Added Pin To Net: NetName=RST Pin=R6-1
+Added Pin To Net: NetName=V4V Pin=R6-2
+Added Pin To Net: NetName=NetC17_1 Pin=IC5-37
+Added Pin To Net: NetName=NetC17_1 Pin=R10-1
+Added Net: Name=NetC17_1
+Added Member To Class: ClassName=Control Member=Component PAD8 DEBTX
+Added Member To Class: ClassName=Control Member=Component PAD9 GND
+Added Member To Class: ClassName=Control Member=Component PAD11 MOSI
+Added Member To Class: ClassName=Control Member=Component PAD12 MISO
+Added Member To Class: ClassName=Control Member=Component PAD13 SCK
+Added Member To Class: ClassName=Control Member=Component PAD14 RST
+Added Member To Class: ClassName=Control Member=Component R9 120K
+Added Member To Class: ClassName=Control Member=Component R11 10K
