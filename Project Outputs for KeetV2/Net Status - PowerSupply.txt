@@ -1,0 +1,24 @@
+Net Status Report
+Filename     : D:\github\KeetV2HW\PowerSupply.PcbDoc
+Date         : 26/12/2020
+Time         : 16:01:14
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    BAT+, Signal Layers Only, 870.735mils
+    DCEN, Signal Layers Only, 613.119mils
+    GND, Signal Layers Only, 366.767mils
+    NetC10_2, Signal Layers Only, 48.275mils
+    NetC1_1, Signal Layers Only, 47.467mils
+    NetC1_2, Signal Layers Only, 171.561mils
+    NetC6_1, Signal Layers Only, 239.805mils
+    NetC8_2, Signal Layers Only, 93.113mils
+    NetIC1_6, Signal Layers Only, 58.561mils
+    NetIC2_3, Signal Layers Only, 134.214mils
+    NetIC3_8, Signal Layers Only, 48.8mils
+    NetM1_1, Signal Layers Only, 183.537mils
+    NetM1_3, Signal Layers Only, 103.943mils
+    V12V, Signal Layers Only, 642.012mils
+    V4V, Signal Layers Only, 320.025mils
+    V5V, Signal Layers Only, 630.462mils
+count : 16
