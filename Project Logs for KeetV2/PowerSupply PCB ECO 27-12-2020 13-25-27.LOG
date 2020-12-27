@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=RST Pin=R6-1
+Removed Pin From Net: NetName=V4V Pin=R6-2
+Change Component Designator: OldDesignator=C18 NewDesignator=C19
+Change Component Designator: OldDesignator=C19 NewDesignator=C18
+Change Component Designator: OldDesignator=PAD? NewDesignator=PAD14
+Added Component: Designator=R11(RESC1005X35N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw040210k0fkedc/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://rs.componentsearchengine.com/Datasheets/2/CRCW040210K0FKEDC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW040210K0FKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW040210K0FKEDC?qs=E3Y5ESvWgWPiNLcGzwCGPg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetM1_1 Pin=R6-2
+Added Pin To Net: NetName=RST Pin=R6-1
+Added Pin To Net: NetName=V4V Pin=R6-2
+Change Net Name : Old Net Name=NetC18_2 New Net Name=NetC19_2
+Change Net Name : Old Net Name=NetC19_2 New Net Name=NetC18_2
+Added Member To Class: ClassName=PowerSupply Member=Component R6 10K
+Added Member To Class: ClassName=Control Member=Component R11 10K
