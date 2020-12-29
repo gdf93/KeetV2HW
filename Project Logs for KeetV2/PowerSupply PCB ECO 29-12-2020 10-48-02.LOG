@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=OBDV5V Pin=D3-1
+Removed Pin From Net: NetName=NetD3_2 Pin=D3-2
+Removed Member From Class: ClassName=Control Member=D3
+Added Pin To Net: NetName=OBDV5V Pin=D?-1
+Added Pin To Net: NetName=NetD3_2 Pin=D?-2
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD?_2
