@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Added Component: Designator=PAD9(PAD)
+Added Component: Designator=PAD10(PAD)
+Added Component: Designator=PAD11(PAD)
+Added Component: Designator=PAD12(PAD)
+Added Pin To Net: NetName=NETTX Pin=PAD9-1
+Added Pin To Net: NetName=NETRX Pin=PAD10-1
+Added Pin To Net: NetName=GPSPWRCTRL Pin=PAD11-1
+Added Pin To Net: NetName=PWRKEY Pin=PAD12-1
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD3_2
+Added Member To Class: ClassName=Control Member=Component PAD9 NETTX
+Added Member To Class: ClassName=Control Member=Component PAD10 NETRX
+Added Member To Class: ClassName=Control Member=Component PAD11 GPSPWRCTRL
+Added Member To Class: ClassName=Control Member=Component PAD12 PWRKEY
