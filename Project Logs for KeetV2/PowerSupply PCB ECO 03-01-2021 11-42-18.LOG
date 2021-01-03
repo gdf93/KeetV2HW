@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NetM1_3 Pin=PAD1-1
+Removed Pin From Net: NetName=GND Pin=PAD2-1
+Removed Pin From Net: NetName=NETTX Pin=PAD9-1
+Removed Pin From Net: NetName=NETRX Pin=PAD10-1
+Removed Pin From Net: NetName=GPSPWRCTRL Pin=PAD11-1
+Removed Pin From Net: NetName=PWRKEY Pin=PAD12-1
+Removed Member From Class: ClassName=PowerSupply Member=PAD1
+Removed Member From Class: ClassName=PowerSupply Member=PAD2
+Removed Member From Class: ClassName=Control Member=PAD9
+Removed Member From Class: ClassName=Control Member=PAD10
+Removed Member From Class: ClassName=Control Member=PAD11
+Removed Member From Class: ClassName=Control Member=PAD12
+Added Pin To Net: NetName=NetM1_3 Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=V5V Pin=P?-3
+Added Pin To Net: NetName=V4V Pin=P?-4
+Added Pin To Net: NetName=V12V Pin=P?-5
+Added Pin To Net: NetName=PWRKEY Pin=P?-11
+Added Pin To Net: NetName=GPSPWRCTRL Pin=P?-12
+Added Pin To Net: NetName=NETTX Pin=P?-13
+Added Pin To Net: NetName=NETRX Pin=P?-14
+Change Net Name : Old Net Name=NetM1_3 New Net Name=+12
+Added Member To Class: ClassName=Control Member=Component P? MHDR1X14
