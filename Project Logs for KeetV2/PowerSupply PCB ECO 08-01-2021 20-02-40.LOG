@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+12 Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=V5V Pin=P2-3
+Removed Pin From Net: NetName=V4V Pin=P2-4
+Removed Pin From Net: NetName=V12V Pin=P2-5
+Removed Pin From Net: NetName=PWRKEY Pin=P2-11
+Removed Pin From Net: NetName=GPSPWRCTRL Pin=P2-12
+Removed Pin From Net: NetName=NETTX Pin=P2-13
+Removed Pin From Net: NetName=NETRX Pin=P2-14
+Removed Member From Class: ClassName=Control Member=P2
