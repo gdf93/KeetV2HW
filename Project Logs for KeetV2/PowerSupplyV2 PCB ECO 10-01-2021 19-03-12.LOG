@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=*-5
+Added Component: Designator=R25(RESC1608X55X25NL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603JR-130RL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=GND Pin=R25-2
+Added Pin To Net: NetName=CAN-H Pin=*-6
+Added Net: Name=CAN-H
+Added Pin To Net: NetName=CAN-L Pin=*-14
+Added Net: Name=CAN-L
+Added Pin To Net: NetName=J1850+ Pin=*-2
+Added Net: Name=J1850+
+Added Pin To Net: NetName=J1850- Pin=*-10
+Added Net: Name=J1850-
+Added Pin To Net: NetName=K-LINE Pin=*-7
+Added Net: Name=K-LINE
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_5 Pin=R25-1
+Added Net: Name=Net*_5
+Added Member To Class: ClassName=PowerSupply Member=Component R25 0
