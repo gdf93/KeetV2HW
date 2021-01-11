@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=NETRX Pin=P3-2
+Added Pin To Net: NetName=NETTX Pin=P3-3
