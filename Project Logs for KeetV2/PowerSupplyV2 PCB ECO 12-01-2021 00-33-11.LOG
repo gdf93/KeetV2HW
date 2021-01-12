@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GPSPWRCTRL Pin=IC5-35
+Added Pin To Net: NetName=GPSPWRCTRL Pin=IC5-32
