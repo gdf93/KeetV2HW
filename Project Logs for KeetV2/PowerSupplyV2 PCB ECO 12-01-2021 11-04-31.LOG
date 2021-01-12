@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GPSPWRCTRL Pin=IC5-35
+Removed Pin From Net: NetName=BAT+ Pin=PAD3-1
+Removed Pin From Net: NetName=GND Pin=PAD4-1
+Removed Member From Class: ClassName=PowerSupply Member=PAD3
+Removed Member From Class: ClassName=PowerSupply Member=PAD4
+Added Component: Designator=P4(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GPSPWRCTRL Pin=IC5-32
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=BAT+ Pin=P4-2
+Added Member To Class: ClassName=PowerSupply Member=Component P4 Header 2
