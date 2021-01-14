@@ -1,0 +1,115 @@
+Added Component: Designator=Q5(FP-318-08-IPC_B)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "220mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "220mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Breakdown Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Resistance"; Value = "3.5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dual Supply Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fall Time"; Value = "9ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate to Source Voltage (Vgs)"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.93mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance"; Value = "27pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2.92mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "360mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Vgs"; Value = "1.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "On-State Resistance"; Value = "6R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "360mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On Max"; Value = "3.5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rise Time"; Value = "9ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Threshold Voltage"; Value = "1.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-Off Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-On Delay Time"; Value = "2.5ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.03g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.3mm"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RESC1005X40X25ML05T05)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C283.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "42095.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 1 x 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "NoSVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "3.3KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/degreesC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RESC1005X40X20NL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BCcomponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TNPW040210K0DEED"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RESC1005X40X20NL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BCcomponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TNPW040210K0DEED"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RESC1005X40X20NL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BCcomponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TNPW040210K0DEED"; VariantName = "[No Variations]"
+Added Component: Designator=R33(RESC1005X40X20NL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BCcomponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TNPW040210K0DEED"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V3V Pin=IC6-30
+Added Pin To Net: NetName=J1850- Pin=Q5-3
+Added Pin To Net: NetName=J1850- Pin=R29-1
+Added Pin To Net: NetName=V5V Pin=R29-2
+Added Pin To Net: NetName=J1850- Pin=R30-1
+Added Pin To Net: NetName=J1850+ Pin=R31-1
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=J1850+ Pin=R32-2
+Added Pin To Net: NetName=V3V Pin=R33-1
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Pin To Net: NetName=NetR30_2 Pin=U3-6
+Added Net: Name=NetR30_2
+Added Pin To Net: NetName=NetR31_2 Pin=R31-2
+Added Pin To Net: NetName=NetR31_2 Pin=U3-3
+Added Pin To Net: NetName=NetR31_2 Pin=U3-5
+Added Net: Name=NetR31_2
+Added Pin To Net: NetName=NetR33_2 Pin=R33-2
+Added Pin To Net: NetName=NetR33_2 Pin=U3-2
+Added Net: Name=NetR33_2
+Added Pin To Net: NetName=P0_29 Pin=IC6-29
+Added Pin To Net: NetName=P0_29 Pin=Q5-1
+Added Net: Name=P0_29
+Added Member To Class: ClassName=OBD Member=Component Q5 BSS138
+Added Member To Class: ClassName=OBD Member=Component R29 ERJ-2RKF3301X
+Added Member To Class: ClassName=OBD Member=Component R30 10k
+Added Member To Class: ClassName=OBD Member=Component R31 10k
+Added Member To Class: ClassName=OBD Member=Component R32 10k
+Added Member To Class: ClassName=OBD Member=Component R33 10k
