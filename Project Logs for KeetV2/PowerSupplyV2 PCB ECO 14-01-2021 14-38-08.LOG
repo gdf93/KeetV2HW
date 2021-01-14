@@ -1,0 +1,17 @@
+Change Component Footprint: Designator=U1 Old Footprint=PDIP300-P8 New Footprint=SOIC-SN8_L
+Change Component Comment : Designator=U1 Old Comment=MCP2021-500E/P New Comment=MCP2021-500E/SN
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=CE840B12-D3A7-4616-B7C6-1A740483CC64 New ItemGUID=D1B53CF4-559E-46B9-B670-415225FB9BC5 Old RevisionGUID=908E7C4C-488C-4EB8-8C8D-B64CE8F7FBC1 New RevisionGUID=11921D2D-184D-465D-BB4B-0B0C65274F39
+Change component parameters: Designator = "U1" ("U1"); Footprint = "PDIP300-P8"; UniqueID = "\NEJETTKX" ("\NEJETTKX")
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.microchip.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/22018F.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.microchip.com/stellent/groups/techpub_sg/documents/packagingspec/en012702.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "revF, Jan-2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "8-Lead Plastic Small Outline (SN) - Narrow, 3.90mm Body [SOIC]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SOIC-SN8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RevisionNote"; Value = "URLs added. DatasheetVersion updated. Sch pin name & types corrected."; VariantName = "[No Variations]"
