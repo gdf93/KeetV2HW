@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C30
+Change Component Designator: OldDesignator=C? NewDesignator=C31
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC31_1
+Added Pin To Net: NetName=NetC30_1 Pin=C30-1
+Added Pin To Net: NetName=NetC30_1 Pin=R27-1
+Added Net: Name=NetC30_1
+Added Member To Class: ClassName=OBD Member=Component C30 560p
+Added Member To Class: ClassName=OBD Member=Component R27 100
