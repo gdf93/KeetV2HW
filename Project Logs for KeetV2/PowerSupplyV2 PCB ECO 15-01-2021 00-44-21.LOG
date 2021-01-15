@@ -1,0 +1,218 @@
+Removed Pin From Net: NetName=V5V Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=P0_1 Pin=IC6-1
+Removed Pin From Net: NetName=NetC26_2 Pin=IC6-26
+Removed Pin From Net: NetName=P0_29 Pin=IC6-29
+Removed Pin From Net: NetName=V5V Pin=IC7-3
+Removed Pin From Net: NetName=CAN-L Pin=IC7-6
+Removed Pin From Net: NetName=V5V Pin=Q6-2
+Removed Pin From Net: NetName=K-LINE Pin=R26-1
+Removed Pin From Net: NetName=CAN-L Pin=R27-2
+Removed Pin From Net: NetName=V5V Pin=R29-2
+Removed Pin From Net: NetName=V5V Pin=R34-2
+Removed Pin From Net: NetName=V5V Pin=U1-2
+Removed Pin From Net: NetName=V5V Pin=U1-3
+Removed Pin From Net: NetName=V12V Pin=U1-7
+Removed Pin From Net: NetName=V5V Pin=U2-3
+Removed Pin From Net: NetName=V5V Pin=U3-8
+Removed Pin From Net: NetName=NetC26_2 Pin=Y2-2
+Removed Member From Class: ClassName=Control Member=R24
+Removed Member From Class: ClassName=PowerSupply Member=R25
+Change Component Footprint: Designator=C25 Old Footprint=CAPC1005X55X25NL05T05 New Footprint=CAPC1005X55N
+Change Component Footprint: Designator=C26 Old Footprint=CAPC1005X55X25NL05T05 New Footprint=CAPC1005X55N
+Change Component Footprint: Designator=C24 Old Footprint=FP-CL10-IPC_B New Footprint=CAPC1005X55N
+Change Component Footprint: Designator=Y2 Old Footprint=FP-LFXTAL003210BULK-MFG New Footprint=ECS1201036BCWYTR
+Change Component Comment : Designator=C24 Old Comment=10u New Comment=1u
+Change Component Comment : Designator=C25 Old Comment=22p New Comment=1u
+Change Component Comment : Designator=C26 Old Comment=22p New Comment=100n
+Change Component Comment : Designator=Y2 Old Comment=LFXTAL003210BULK New Comment=ECS-120-10-36B-CWY-TR
+Change Component Designator: OldDesignator=* NewDesignator=*1
+Change Component Designator: OldDesignator=C20 NewDesignator=C22
+Change Component Designator: OldDesignator=C21 NewDesignator=C20
+Change Component Designator: OldDesignator=C22 NewDesignator=C21
+Change Component Designator: OldDesignator=C27 NewDesignator=C23
+Change Component Designator: OldDesignator=C29 NewDesignator=C31
+Change Component Designator: OldDesignator=C30 NewDesignator=C33
+Change Component Designator: OldDesignator=C31 NewDesignator=C34
+Change Component Designator: OldDesignator=P1 NewDesignator=P4
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Change Component Designator: OldDesignator=P3 NewDesignator=P2
+Change Component Designator: OldDesignator=P4 NewDesignator=P3
+Change Component Designator: OldDesignator=PAD8 NewDesignator=PAD1
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q4
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q6
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q5
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R15
+Change Component Designator: OldDesignator=R12 NewDesignator=R17
+Change Component Designator: OldDesignator=R13 NewDesignator=R19
+Change Component Designator: OldDesignator=R14 NewDesignator=R23
+Change Component Designator: OldDesignator=R15 NewDesignator=R24
+Change Component Designator: OldDesignator=R16 NewDesignator=R25
+Change Component Designator: OldDesignator=R17 NewDesignator=R12
+Change Component Designator: OldDesignator=R18 NewDesignator=R13
+Change Component Designator: OldDesignator=R19 NewDesignator=R14
+Change Component Designator: OldDesignator=R22 NewDesignator=R16
+Change Component Designator: OldDesignator=R23 NewDesignator=R18
+Change Component Designator: OldDesignator=R24 NewDesignator=R22
+Change Component Designator: OldDesignator=R25 NewDesignator=R1
+Change Component Designator: OldDesignator=R27 NewDesignator=R33
+Change Component Designator: OldDesignator=R28 NewDesignator=R34
+Change Component Designator: OldDesignator=R29 NewDesignator=R26
+Change Component Designator: OldDesignator=R30 NewDesignator=R28
+Change Component Designator: OldDesignator=R31 NewDesignator=R29
+Change Component Designator: OldDesignator=R32 NewDesignator=R30
+Change Component Designator: OldDesignator=R33 NewDesignator=R31
+Change Component Designator: OldDesignator=R34 NewDesignator=R27
+Change Component Designator: OldDesignator=U1 NewDesignator=U3
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Managed Component Library Link : Designator=C24 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=D1B33728-1499-4D29-ABA7-920FDC9361F5 New ItemGUID= Old RevisionGUID=47FBF08C-6F8E-458B-9867-A9DDA0ED4571 New RevisionGUID=
+Change Managed Component Library Link : Designator=C25 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=7E54ACE0-2C32-4A73-BDC5-96DAF5B616CC New ItemGUID= Old RevisionGUID=A82F4D85-B34F-4FEB-9556-A37193674843 New RevisionGUID=
+Change Managed Component Library Link : Designator=C26 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=7E54ACE0-2C32-4A73-BDC5-96DAF5B616CC New ItemGUID= Old RevisionGUID=A82F4D85-B34F-4FEB-9556-A37193674843 New RevisionGUID=
+Change Managed Component Library Link : Designator=Y2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=6BE9E8FF-BC3C-44A8-8043-DD7B05B8E93F New ItemGUID= Old RevisionGUID=A8FEBDD5-F6C0-4903-BAF6-2CEB27E1494E New RevisionGUID=
+Change component parameters: Designator = "C25" ("C25"); Footprint = "CAPC1005X55X25NL05T05"; UniqueID = "\VNVTFOAH" ("\VNVTFOAH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/EMK105BJ105KVHF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EMK105BJ105KVHF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "963-EMK105BJ105KVHF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Taiyo-Yuden/EMK105BJ105KVHF?qs=qPaGMJUC%252BSsQbatR4qRfmg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C26"); Footprint = "CAPC1005X55X25NL05T05"; UniqueID = "\SSDPNEJK" ("\SSDPNEJK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C1005X5R1H104K050BB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c1005x5r1h104k050bb/tdk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C1005X5R1H104K050BB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "810-C1005X5R1H104K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/C1005X5R1H104K050BB?qs=dfay7wIA1uFKSdBVUyKezQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "FP-CL10-IPC_B"; UniqueID = "\QIGSHYAG" ("\QIGSHYAG")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/EMK105BJ105KVHF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EMK105BJ105KVHF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "963-EMK105BJ105KVHF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Taiyo-Yuden/EMK105BJ105KVHF?qs=qPaGMJUC%252BSsQbatR4qRfmg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y2" ("Y2"); Footprint = "FP-LFXTAL003210BULK-MFG"; UniqueID = "\LPPYEBOR" ("\LPPYEBOR")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/ECS-120-10-36B-CWY-TR.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "ECS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECS-120-10-36B-CWY-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "520-120-10-36B-CWYT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ECS/ECS-120-10-36B-CWY-TR/?qs=l4Gc20tDgJKvLBYLYNYQdg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C27(CAPC1005X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/EMK105BJ105KVHF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EMK105BJ105KVHF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "963-EMK105BJ105KVHF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Taiyo-Yuden/EMK105BJ105KVHF?qs=qPaGMJUC%252BSsQbatR4qRfmg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C28(CAPC1005X56X25ML10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "04025A100JAT2A"; VariantName = "[No Variations]"
+Added Component: Designator=C29(CAPC1005X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://psearch.en.murata.com/capacitor/product/GRM155R60J106ME05%23.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM155R60J106ME05J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM155R60J106ME05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM155R60J106ME05J?qs=d0WKAl%252BL4KZLYokHNDRa%252Bw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C30(CAPC1005X56X25ML10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "04025A100JAT2A"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAPC1005X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/EMK105BJ105KVHF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EMK105BJ105KVHF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "963-EMK105BJ105KVHF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Taiyo-Yuden/EMK105BJ105KVHF?qs=qPaGMJUC%252BSsQbatR4qRfmg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RESC1005X35N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CRCW0402510RFKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw0402510rfkedc/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/CRCW0402510RFKEDC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW0402510RFKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW0402510RFKEDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=71-CRCW0402510RFKEDC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V3V Pin=C24-1
+Added Pin To Net: NetName=V3V Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=V3V Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=OBDV5V Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=V3V Pin=C32-2
+Added Pin To Net: NetName=P0_1 Pin=IC6-2
+Added Pin To Net: NetName=P0_29 Pin=IC6-48
+Added Pin To Net: NetName=OBDV5V Pin=IC7-3
+Added Pin To Net: NetName=OBDV5V Pin=Q5-2
+Added Pin To Net: NetName=OBDV5V Pin=R27-2
+Added Pin To Net: NetName=K-LINE Pin=R32-1
+Added Pin To Net: NetName=OBDV5V Pin=U1-3
+Added Pin To Net: NetName=OBDV5V Pin=U3-2
+Added Pin To Net: NetName=OBDV5V Pin=U3-3
+Added Pin To Net: NetName=NetC26_2 Pin=U3-7
+Added Pin To Net: NetName=GND Pin=Y2-2
+Added Pin To Net: NetName=GND Pin=Y2-4
+Change Net Name : Old Net Name=Net*_5 New Net Name=Net*1_5
+Change Net Name : Old Net Name=NetC30_1 New Net Name=NetC33_1
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetQ4_1
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ4_1 New Net Name=NetQ3_1
+Change Net Name : Old Net Name=NetQ6_1 New Net Name=NetQ5_1
+Change Net Name : Old Net Name=NetR30_2 New Net Name=NetR28_2
+Change Net Name : Old Net Name=NetR31_2 New Net Name=NetR29_2
+Change Net Name : Old Net Name=NetR33_2 New Net Name=NetR31_2
+Change Net Name : Old Net Name=V3V New Net Name=V3V3
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=NetC28_2 Pin=IC6-25
+Added Pin To Net: NetName=NetC28_2 Pin=Y2-1
+Added Net: Name=NetC28_2
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=IC6-26
+Added Pin To Net: NetName=NetC30_2 Pin=Y2-3
+Added Net: Name=NetC30_2
+Added Pin To Net: NetName=NetIC6_4 Pin=IC6-4
+Added Pin To Net: NetName=NetIC6_4 Pin=U2-7
+Added Net: Name=NetIC6_4
+Added Pin To Net: NetName=NetIC7_6 Pin=IC7-6
+Added Pin To Net: NetName=NetIC7_6 Pin=R33-2
+Added Net: Name=NetIC7_6
+Added Pin To Net: NetName=OBD5V Pin=R26-2
+Added Net: Name=OBD5V
+Added Member To Class: ClassName=OBD Member=Component C27 1u
+Added Member To Class: ClassName=OBD Member=Component C28 10p
+Added Member To Class: ClassName=OBD Member=Component C32 1u
+Added Member To Class: ClassName=OBD Member=Component C33 560p
+Added Member To Class: ClassName=OBD Member=Component C34 560p
+Added Member To Class: ClassName=PowerSupply Member=Component R9 100K
+Added Member To Class: ClassName=Control Member=Component R25 2.2k
