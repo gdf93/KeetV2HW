@@ -1,0 +1,15 @@
+Component   : OBD2
+PCB Library : PcbLib1.PcbLib
+Date        : 20/01/2021
+Time        : 10:35:08
+
+
+
+Dimension : 41.173 x 27 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Multi Layer                16          0        0       0        0
+ Top Overlay                 0          4        0       0        1
+--------------------------------------------------------------------
+ Total                      16          4        0       0        1
