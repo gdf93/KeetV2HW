@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=OBDV5V Pin=C20-1
+Removed Pin From Net: NetName=OBDV5V Pin=C21-1
+Removed Pin From Net: NetName=OBDV5V Pin=D3-1
+Added Component: Designator=R42(RESC1608X55X25NL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603JR-130RL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_1 Pin=C21-1
+Added Pin To Net: NetName=NetC20_1 Pin=D3-1
+Added Pin To Net: NetName=NetC20_1 Pin=R42-1
+Added Net: Name=NetC20_1
+Added Member To Class: ClassName=Control Member=Component R42 0
