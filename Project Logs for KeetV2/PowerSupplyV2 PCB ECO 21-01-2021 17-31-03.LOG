@@ -1,0 +1,10 @@
+Added Component: Designator=J?(HDRV12W64P254_3X4_1016X762X843P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "804-22-012-10-004101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/804-22-012-10-004101/mill-max"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/273/015.1M-1075435.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.43mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Mill-Max"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "804-22-012-10-004101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "575-8042201210004101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=575-8042201210004101"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=OBD Member=Component J? 804-22-012-10-004101

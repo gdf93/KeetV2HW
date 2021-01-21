@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=pogo? NewDesignator=pogo1
+Added Member To Class: ClassName=OBD Member=Component pogo1 POGO-connector3x4

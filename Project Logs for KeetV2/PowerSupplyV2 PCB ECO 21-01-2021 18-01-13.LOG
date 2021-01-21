@@ -1,0 +1,13 @@
+Added Component: Designator=pogo?(POGO_connector_3x4)
+Added Pin To Net: NetName=OBDV5V Pin=pogo?-1
+Added Pin To Net: NetName=ISP Pin=pogo?-2
+Added Pin To Net: NetName=USART0_TX Pin=pogo?-3
+Added Pin To Net: NetName=USART0_RX Pin=pogo?-4
+Added Pin To Net: NetName=GND Pin=pogo?-5
+Added Pin To Net: NetName=SCK Pin=pogo?-6
+Added Pin To Net: NetName=RST Pin=pogo?-7
+Added Pin To Net: NetName=MOSI Pin=pogo?-8
+Added Pin To Net: NetName=MISO Pin=pogo?-9
+Added Pin To Net: NetName=V4V Pin=pogo?-10
+Added Member To Class: ClassName=OBD Member=Component J? 827-22-010-10-020101
+Added Member To Class: ClassName=OBD Member=Component pogo? POGO-connector3x4
