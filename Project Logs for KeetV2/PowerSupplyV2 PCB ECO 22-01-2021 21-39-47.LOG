@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=CAN-RX Pin=IC6-43
+Added Pin To Net: NetName=CAN-RX Pin=IC7-4
+Added Net: Name=CAN-RX
+Added Pin To Net: NetName=CAN-TX Pin=IC6-36
+Added Pin To Net: NetName=CAN-TX Pin=IC7-1
+Added Net: Name=CAN-TX
