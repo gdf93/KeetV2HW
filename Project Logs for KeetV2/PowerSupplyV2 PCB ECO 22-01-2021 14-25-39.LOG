@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RST Pin=pogo1-7
+Removed Pin From Net: NetName=SCK Pin=pogo1-8
+Added Pin To Net: NetName=SCK Pin=pogo1-7
+Added Pin To Net: NetName=RST Pin=pogo1-8
