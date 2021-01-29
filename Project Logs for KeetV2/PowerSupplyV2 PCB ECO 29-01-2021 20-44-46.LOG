@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=V4V Pin=P2-1
+Removed Pin From Net: NetName=NETTX Pin=P2-2
+Removed Pin From Net: NetName=NETRX Pin=P2-3
+Removed Pin From Net: NetName=gulli_net Pin=P2-4
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X4 New Footprint=HDR1X5
+Change Component Comment : Designator=P2 Old Comment=Header 4 New Comment=Header 5
+Added Pin To Net: NetName=NETTX Pin=P2-1
+Added Pin To Net: NetName=NETRX Pin=P2-2
+Added Pin To Net: NetName=gulli_net Pin=P2-3
+Added Pin To Net: NetName=V4V Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P2-5
