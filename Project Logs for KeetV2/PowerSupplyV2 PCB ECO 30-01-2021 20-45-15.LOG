@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=R40 Old Footprint=RESC1005X40X25ML05T10 New Footprint=RESC1005X40X25LL05T10
+Change Component Footprint: Designator=R41 Old Footprint=RESC1005X40X25ML05T10 New Footprint=RESC1005X40X25LL05T10
+Change Component Comment : Designator=R40 Old Comment=470 New Comment=330
+Change Component Comment : Designator=R41 Old Comment=470 New Comment=330
+Change Managed Component Library Link : Designator=R40 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=34519F66-EF5E-4962-8AF7-291464BA2382 New ItemGUID=F48B2B26-6BCD-4869-9C45-E57E29DA2B2C Old RevisionGUID=29C75CB4-03AD-4F02-B5BA-80A997AB7A45 New RevisionGUID=D31275E3-20F1-45D9-A05B-805880AA4AD7
+Change Managed Component Library Link : Designator=R41 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=34519F66-EF5E-4962-8AF7-291464BA2382 New ItemGUID=F48B2B26-6BCD-4869-9C45-E57E29DA2B2C Old RevisionGUID=29C75CB4-03AD-4F02-B5BA-80A997AB7A45 New RevisionGUID=D31275E3-20F1-45D9-A05B-805880AA4AD7
+Change component parameters: Designator = "R40" ("R40"); Footprint = "RESC1005X40X25ML05T10"; UniqueID = "\CURPDWDZ" ("\CURPDWDZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-07330RL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41" ("R41"); Footprint = "RESC1005X40X25ML05T10"; UniqueID = "\NHVYYKYU" ("\NHVYYKYU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402FR-07330RL"; VariantName = "[No Variations]"
