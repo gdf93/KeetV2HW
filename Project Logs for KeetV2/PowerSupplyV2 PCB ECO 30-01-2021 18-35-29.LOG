@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=gulli_net Pin=P2-3
+Removed Pin From Net: NetName=V4V Pin=P2-4
+Added Pin To Net: NetName=V4V Pin=P2-3
+Added Pin To Net: NetName=gulli_net Pin=P2-4

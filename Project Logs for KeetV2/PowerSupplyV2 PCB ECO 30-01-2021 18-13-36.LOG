@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=OBDV5V Pin=R40-1
+Removed Pin From Net: NetName=OBDV5V Pin=R41-1
+Added Pin To Net: NetName=V4V Pin=R40-1
+Added Pin To Net: NetName=V4V Pin=R41-1
