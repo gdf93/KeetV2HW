@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetIC2_3 Pin=R9-1
+Removed Pin From Net: NetName=BAT+ Pin=R9-2
+Added Pin To Net: NetName=BAT+ Pin=R9-1
+Added Pin To Net: NetName=NetIC2_3 Pin=R9-2
