@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SCAOVQVJ
 
 [Document2]
-DocumentPath=Schlib1.SchLib
+DocumentPath=KeetV2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KEGNBNQR
 
 [Document3]
-DocumentPath=PcbLib1.PcbLib
+DocumentPath=KeetV2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
