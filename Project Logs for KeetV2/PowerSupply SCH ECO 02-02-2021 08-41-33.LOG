@@ -1,0 +1,32 @@
+Replace Part C1 GRM155R71C104KA88D in D:\github\KeetV2HW\PowerSupply.SchDoc with GRM155R71C104KA88D from KeetV2.SchLib
+Replace Part C2 TMK107BBJ475MA-T in D:\github\KeetV2HW\PowerSupply.SchDoc with TMK107BBJ475MA-T from KeetV2.SchLib
+Replace Part C3 TMK107BBJ475MA-T in D:\github\KeetV2HW\PowerSupply.SchDoc with TMK107BBJ475MA-T from KeetV2.SchLib
+Replace Part C4 TMK107BBJ475MA-T in D:\github\KeetV2HW\PowerSupply.SchDoc with TMK107BBJ475MA-T from KeetV2.SchLib
+Replace Part C5 C1005X5R1H104K050BB in D:\github\KeetV2HW\PowerSupply.SchDoc with C1005X5R1H104K050BB from KeetV2.SchLib
+Replace Part C6 GRM1555C1H510JA01D in D:\github\KeetV2HW\PowerSupply.SchDoc with GRM1555C1H510JA01D from KeetV2.SchLib
+Replace Part C7 GRM31CR61A476KE15L in D:\github\KeetV2HW\PowerSupply.SchDoc with GRM31CR61A476KE15L from KeetV2.SchLib
+Replace Part C8 CL10A225KP8NNNC in D:\github\KeetV2HW\PowerSupply.SchDoc with CL10A225KP8NNNC from KeetV2.SchLib
+Replace Part C9 GRM155R60J475ME87D in D:\github\KeetV2HW\PowerSupply.SchDoc with GRM155R60J475ME87D from KeetV2.SchLib
+Replace Part C10 GRM155R71H472JA01J in D:\github\KeetV2HW\PowerSupply.SchDoc with GRM155R71H472JA01J from KeetV2.SchLib
+Replace Part C11 EMK105BJ105KVHF in D:\github\KeetV2HW\PowerSupply.SchDoc with EMK105BJ105KVHF from KeetV2.SchLib
+Replace Part C12 TMK105CBJ225KV-F in D:\github\KeetV2HW\PowerSupply.SchDoc with TMK105CBJ225KV-F from KeetV2.SchLib
+Replace Part D1 BAT54CLT1G in D:\github\KeetV2HW\PowerSupply.SchDoc with BAT54CLT1G from SamacSys.SchLib
+Replace Part IC1 LMR23615DRRR in D:\github\KeetV2HW\PowerSupply.SchDoc with LMR23615DRRR from SamacSys.SchLib
+Replace Part IC3 MCP73831T-2ACI_MC in D:\github\KeetV2HW\PowerSupply.SchDoc with MCP73831T-2ACI_MC from SamacSys.SchLib
+Replace Part IC4 TLV75740PDRVR in D:\github\KeetV2HW\PowerSupply.SchDoc with TLV75740PDRVR from SamacSys.SchLib
+Replace Part L1 IFSC1515AHER4R7M01 in D:\github\KeetV2HW\PowerSupply.SchDoc with IFSC1515AHER4R7M01 from KeetV2.IntLib
+Replace Part M1 DMPH6250SQ-7 in D:\github\KeetV2HW\PowerSupply.SchDoc with DMPH6250SQ-7 from KeetV2.SchLib
+Replace Part M2 DMP1045U-7 in D:\github\KeetV2HW\PowerSupply.SchDoc with DMP1045U-7 from KeetV2.IntLib
+Replace Part P1 Header 3 in D:\github\KeetV2HW\PowerSupply.SchDoc with Header 3 from Miscellaneous Connectors.IntLib
+Replace Part P2 Header 5 in D:\github\KeetV2HW\PowerSupply.SchDoc with Header 5 from Miscellaneous Connectors.IntLib
+Replace Part P3 Header 2 in D:\github\KeetV2HW\PowerSupply.SchDoc with Header 2 from Miscellaneous Connectors.IntLib
+Update Managed Component R1 From CMP-2000-04311-1[0] To CMP-2000-04311-1[RC0603JR-130RL] in PowerSupply.SchDoc
+Replace Part R2 CR0402-FX-8872GLF in D:\github\KeetV2HW\PowerSupply.SchDoc with CR0402-FX-8872GLF from KeetV2.SchLib
+Replace Part R3 CRCW04026M80FKED in D:\github\KeetV2HW\PowerSupply.SchDoc with CRCW04026M80FKED from KeetV2.SchLib
+Replace Part R4 CR0402-FX-1872GLF in D:\github\KeetV2HW\PowerSupply.SchDoc with CR0402-FX-1872GLF from KeetV2.SchLib
+Replace Part R5 AC0402FR-071M3L in D:\github\KeetV2HW\PowerSupply.SchDoc with AC0402FR-071M3L from KeetV2.SchLib
+Replace Part R6 CRCW040222K1FKED in D:\github\KeetV2HW\PowerSupply.SchDoc with CRCW040222K1FKED from KeetV2.SchLib
+Replace Part R7 CRCW0402-10K0FKED in D:\github\KeetV2HW\PowerSupply.SchDoc with CRCW0402-10K0FKED from KeetV2.SchLib
+Replace Part R8 CRCW040218K0FKED in D:\github\KeetV2HW\PowerSupply.SchDoc with CRCW040218K0FKED from KeetV2.SchLib
+Replace Part R9 CRCW0402100KFKED in D:\github\KeetV2HW\PowerSupply.SchDoc with CRCW0402100KFKED from KeetV2.SchLib
+Replace Part Z1 BZX84C10LT1G in D:\github\KeetV2HW\PowerSupply.SchDoc with BZX84C10LT1G from KeetV2.SchLib
