@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=V4V Pin=Q4-1
+Removed Pin From Net: NetName=V4V Pin=R17-1
+Removed Pin From Net: NetName=V4V Pin=R20-2
+Change Component Comment : Designator=IC9 Old Comment=5V  New Comment=5V
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R17-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R20-2
+Added Net: Name=NetQ4_1
