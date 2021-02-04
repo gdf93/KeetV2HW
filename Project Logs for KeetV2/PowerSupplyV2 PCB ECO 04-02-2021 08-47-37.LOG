@@ -1,0 +1,105 @@
+Removed Pin From Net: NetName=NetC35_2 Pin=IC6-1
+Removed Pin From Net: NetName=NetIC6_3 Pin=IC6-3
+Removed Pin From Net: NetName=NetIC6_4 Pin=IC6-4
+Removed Pin From Net: NetName=GND Pin=IC6-5
+Removed Pin From Net: NetName=NetIC6_8 Pin=IC6-8
+Removed Pin From Net: NetName=NetIC6_9 Pin=IC6-9
+Removed Pin From Net: NetName=V3V3 Pin=IC6-10
+Removed Pin From Net: NetName=GND Pin=IC6-11
+Removed Pin From Net: NetName=V3V3 Pin=IC6-14
+Removed Pin From Net: NetName=V3V3 Pin=IC6-16
+Removed Pin From Net: NetName=GND Pin=IC6-17
+Removed Pin From Net: NetName=LED-G Pin=IC6-18
+Removed Pin From Net: NetName=GND Pin=IC6-20
+Removed Pin From Net: NetName=LED-R Pin=IC6-21
+Removed Pin From Net: NetName=USART0_RX Pin=IC6-22
+Removed Pin From Net: NetName=USART0_TX Pin=IC6-23
+Removed Pin From Net: NetName=GND Pin=IC6-24
+Removed Pin From Net: NetName=NetC28_2 Pin=IC6-25
+Removed Pin From Net: NetName=NetC30_2 Pin=IC6-26
+Removed Pin From Net: NetName=V3V3 Pin=IC6-27
+Removed Pin From Net: NetName=V3V3 Pin=IC6-30
+Removed Pin From Net: NetName=P0_5 Pin=IC6-33
+Removed Pin From Net: NetName=P0_1 Pin=IC6-35
+Removed Pin From Net: NetName=CAN-TX Pin=IC6-36
+Removed Pin From Net: NetName=V3V3 Pin=IC6-39
+Removed Pin From Net: NetName=GND Pin=IC6-40
+Removed Pin From Net: NetName=GND Pin=IC6-41
+Removed Pin From Net: NetName=V3V3 Pin=IC6-42
+Removed Pin From Net: NetName=CAN-RX Pin=IC6-43
+Removed Pin From Net: NetName=OBDRX Pin=IC6-45
+Removed Pin From Net: NetName=OBDTX Pin=IC6-46
+Removed Pin From Net: NetName=P0_29 Pin=IC6-48
+Added Component: Designator=IC6(TSQFP50P898X898X160-48N)
+Add component (AddParameter): Name = "Case/Package"; Value = "LQFP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Microcontrollers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/29718/lpc15xx-29718830.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/29718/lpc15xx-29718830.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Architecture"; Value = "ARM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Bus Width"; Value = "32b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "72MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C,SPI,CAN,USART,UART"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LPC1517JBD48E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Frequency"; Value = "72MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "1.5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Size"; Value = "64KB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Type"; Value = "FLASH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of ADC Channels"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of I/Os"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Programmable I/O"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Oscillator Type"; Value = "Internal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peripherals"; Value = "Brown-out Detect/Reset,POR,PWM,WDT,DMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=5,33000, 10=4,52000, 50=4,52000, 100=3,72000, 1000=2,81000, 10000=2,81000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RAM Size"; Value = "12KB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "771-LPC1517JBD48E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Watchdog Timer"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "6.287584oz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC35_2 Pin=IC6-1
+Added Pin To Net: NetName=NetIC6_3 Pin=IC6-3
+Added Pin To Net: NetName=NetIC6_4 Pin=IC6-4
+Added Pin To Net: NetName=GND Pin=IC6-5
+Added Pin To Net: NetName=NetIC6_8 Pin=IC6-8
+Added Pin To Net: NetName=NetIC6_9 Pin=IC6-9
+Added Pin To Net: NetName=V3V3 Pin=IC6-10
+Added Pin To Net: NetName=GND Pin=IC6-11
+Added Pin To Net: NetName=V3V3 Pin=IC6-14
+Added Pin To Net: NetName=V3V3 Pin=IC6-16
+Added Pin To Net: NetName=GND Pin=IC6-17
+Added Pin To Net: NetName=LED-G Pin=IC6-18
+Added Pin To Net: NetName=GND Pin=IC6-20
+Added Pin To Net: NetName=LED-R Pin=IC6-21
+Added Pin To Net: NetName=USART0_RX Pin=IC6-22
+Added Pin To Net: NetName=USART0_TX Pin=IC6-23
+Added Pin To Net: NetName=GND Pin=IC6-24
+Added Pin To Net: NetName=NetC28_2 Pin=IC6-25
+Added Pin To Net: NetName=NetC30_2 Pin=IC6-26
+Added Pin To Net: NetName=V3V3 Pin=IC6-27
+Added Pin To Net: NetName=V3V3 Pin=IC6-30
+Added Pin To Net: NetName=P0_5 Pin=IC6-33
+Added Pin To Net: NetName=P0_1 Pin=IC6-35
+Added Pin To Net: NetName=CAN-TX Pin=IC6-36
+Added Pin To Net: NetName=V3V3 Pin=IC6-39
+Added Pin To Net: NetName=GND Pin=IC6-40
+Added Pin To Net: NetName=GND Pin=IC6-41
+Added Pin To Net: NetName=V3V3 Pin=IC6-42
+Added Pin To Net: NetName=CAN-RX Pin=IC6-43
+Added Pin To Net: NetName=OBDRX Pin=IC6-45
+Added Pin To Net: NetName=OBDTX Pin=IC6-46
+Added Pin To Net: NetName=P0_29 Pin=IC6-48
