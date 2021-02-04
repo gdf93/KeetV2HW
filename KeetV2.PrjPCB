@@ -156,11 +156,32 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BFUGUCLQ
 
+[Document8]
+DocumentPath=KeetV2.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for KeetV2\Design Rule Check - PowerSupplyV2.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for KeetV2\KeetV2-BOM.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for KeetV2\Net Status - PowerSupply.html
 DItemRevisionGUID=
 
@@ -497,6 +518,16 @@ Configuration1_Name1=ColumnNameFormat
 Configuration1_Item1=CaptionAsName
 Configuration1_Name2=ForceUpdateSettings
 Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1844|FormHeight=1114|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=EUR|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|Manufacturer Part Number=100|Manufacturer 1=100|Supplier 1=100|Supplier Part Number 1=100
+Configuration1_Name7=VisibleOrder_Flat
+Configuration1_Item7=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|Manufacturer Part Number=100|Manufacturer 1=100|Supplier 1=100|Supplier Part Number 1=100
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
