@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=P0_1 Pin=IC6-35
+Change component parameters: Designator = "IC2" ("IC2"); Footprint = "SOT95P245X110-6N"; UniqueID = "\RQAWOXGY" ("\RQAWOXGY")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOT-23-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Voltage Supervisors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.ablic.com/en/doc/datasheet/voltage_detector/S1011_E.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ablic.com/en/doc/datasheet/voltage_detector/S1011_E.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ABLIC U.S.A."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "S-1011EA0-M6T1U4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Voltages Monitored"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0,99000, 10=0,88300, 50=0,88300, 100=0,60400, 1000=0,41900, 10000=0,37000 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reset"; Value = "Active Low"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "628-S-1011EA0-M6T1U4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Threshold Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Voltage Detector"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC6-37
+Added Pin To Net: NetName=GND Pin=IC6-38
