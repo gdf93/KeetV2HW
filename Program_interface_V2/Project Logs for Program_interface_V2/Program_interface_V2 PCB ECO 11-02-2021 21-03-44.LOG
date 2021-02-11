@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=OBDV5V Pin=P3-2
+Removed Pin From Net: NetName=USART0_RX Pin=P3-3
+Removed Pin From Net: NetName=USART0_TX Pin=P3-4
+Removed Pin From Net: NetName=V4V Pin=P3-5
+Removed Pin From Net: NetName=GND Pin=P3-6
+Removed Pin From Net: NetName=RST Pin=P3-7
+Removed Pin From Net: NetName=SCK Pin=P3-8
+Removed Pin From Net: NetName=MISO Pin=P3-9
+Removed Pin From Net: NetName=MOSI Pin=P3-10
+Removed Member From Class: ClassName=interface Member=P3
