@@ -89,23 +89,6 @@ GenerateClassCluster=0
 DocumentUniqueId=BBEDPCAA
 
 [Document4]
-DocumentPath=PowerSupply.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BJGFIPMX
-
-[Document5]
 DocumentPath=Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DAXUOINB
 
-[Document6]
+[Document5]
 DocumentPath=PowerSupplyV2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUWTSUUQ
 
-[Document7]
+[Document6]
 DocumentPath=OBD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BFUGUCLQ
 
-[Document8]
+[Document7]
 DocumentPath=KeetV2.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=KeetV2.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,15 +174,123 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for KeetV2\Design Rule Check - PowerSupplyV2.html
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for KeetV2\KeetV2-BOM.xlsx
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for KeetV2\Design Rule Check - PowerSupplyV2.html
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\symbols\rect53.15x39.3701_270_offset0x-5\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\symbols\rect53.1496x39.3701_270_offset0x5\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\symbols\rect53.1496x39.3701_270_offset0x-5\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\symbols\rect61.15x47.3701_270_offset0x-5\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\symbols\rect61.1496x47.3701_270_offset0x5\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\symbols\rect61.1496x47.3701_270_offset0x-5\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for KeetV2\KeetV2-BOM.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument25]
 DocumentPath=Project Outputs for KeetV2\Net Status - PowerSupply.html
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\PowerSupplyV2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\user\PowerSupplyV2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=PDNAnalyzer_Output\PowerSupplyV2\ODBTemp\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -547,6 +638,8 @@ OutputName10=ODB++ Files
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
+Configuration10_Name1=OutputConfigurationParameter1
+Configuration10_Item1=AddToAllLayerClasses.Set= |AddToAllPlots_Bottom Assembly=False|AddToAllPlots_Bottom Body information=False|AddToAllPlots_Bottom Body information=False|AddToAllPlots_Bottom Courtyard=False|AddToAllPlots_Bottom Designator=False|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 14=False|AddToAllPlots_Top Assembly=False|AddToAllPlots_Top Body information=False|AddToAllPlots_Top Body information=False|AddToAllPlots_Top Component Center=False|AddToAllPlots_Top Courtyard=False|AddToAllPlots_Top Designator=False|AddToAllPlots_Top Mechanical 1/Mechanical 6=False|AddToAllPlots_Top Mechanical 15/Mechanical 17=False|Compression_None=True|Compression_tar_tgz=True|Compression_zip=True|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|LayerClassesPlot.Set= |MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|ODBProfileLayerV7=-1|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=True|PlotMechanical13Plot=True|PlotMechanical14Plot=False|PlotMechanical15Plot=False|PlotMechanical16Plot=False|PlotMechanical1Plot=False|PlotMechanical2Plot=True|PlotMechanical3Plot=True|PlotMechanical4Plot=True|PlotMechanical5Plot=True|PlotMechanical6Plot=True|PlotMechanical7Plot=True|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=False|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=False|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView|Units=Imperial
 OutputType11=Plane
 OutputName11=Power-Plane Prints
 OutputDocumentPath11=

@@ -1,0 +1,100 @@
+
+Importing D:\github\KeetV2HW\PDNAnalyzer_Output\PowerSupplyV2\Unnamed simulation (1)\odb.tgz... [Wed Feb 17 18:41:39 2021]
+============================================================
+Reading ODB++ database ...
+
+file not found: odb/misc/info.Z
+Reading file odb/matrix/matrix...
+Reading file odb/steps/pcb/profile...
+Reading file odb/symbols/rect53.1496x39.3701_270_offset0x-5/features...
+Reading file odb/symbols/rect53.1496x39.3701_270_offset0x5/features...
+Reading file odb/symbols/rect53.15x39.3701_270_offset0x-5/features...
+Reading file odb/symbols/rect61.1496x47.3701_270_offset0x-5/features...
+Reading file odb/symbols/rect61.1496x47.3701_270_offset0x5/features...
+Reading file odb/symbols/rect61.15x47.3701_270_offset0x-5/features...
+Reading file odb/steps/pcb/eda/data...
+Origin of ODB++ database:  Altium Designer file - Version 1.0.0.30000
+WARNING: Ignoring I(100 time(s))
+eda data: 32 packages, 82 nets.
+Reading file odb/steps/pcb/layers/top_solder/features...
+351 SWHs on layer TOP_SOLDER
+
+Reading file odb/steps/pcb/layers/top_layer/features...
+1093 SWHs on layer TOP_LAYER
+
+Reading file odb/steps/pcb/layers/bottom_layer/features...
+893 SWHs on layer BOTTOM_LAYER
+
+Reading file odb/steps/pcb/layers/bottom_solder/features...
+326 SWHs on layer BOTTOM_SOLDER
+
+Added substrate layer SUBSTRATE-1 below etch layer TOP_LAYER
+Reading file odb/steps/pcb/layers/top_solder/attrlist...
+Reading file odb/steps/pcb/layers/top_layer/attrlist...
+Reading file odb/steps/pcb/layers/bottom_layer/attrlist...
+Reading file odb/steps/pcb/layers/bottom_solder/attrlist...
+WARNING: material values were set to default due to missing information for the following layers:  'TOP_SOLDER', 'TOP_LAYER', 'BOTTOM_LAYER', 'BOTTOM_SOLDER'
+parsing drills TOP_LAYER-BOTTOM_LAYER
+Reading file odb/steps/pcb/layers/drill/features...
+Reading file odb/steps/pcb/layers/comp_+_top/components...
+Reading file odb/steps/pcb/layers/comp_+_bot/components...
+WARNING: different refdes prefixes in component group 4.7u: 
+	 C4
+	 C9
+	 L1
+	 C2
+	 C3
+INFO: 50 duplicate vertices ignored
+========================================
+INFO: Created CSV file (D:\github\KeetV2HW\PDNAnalyzer_Output\PowerSupplyV2\Unnamed simulation (1)\Results\tmp\design.csv) with component properties extracted from ODB++ file.
+========================================
+========================================
+Lumped-element import (D:\github\KeetV2HW\PDNAnalyzer_Output\PowerSupplyV2\Unnamed simulation (1)\Results\tmp\design.csv)...
+Detected ' ; ' as separator.
+
+Value-string translations:
+	0 ->  0.0 Ohms (R)
+	1.3M ->  1.3 MOhms (R)
+	100 ->  100.0 Ohms (R)
+	100K ->  100.0 kOhms (R)
+	100n ->  100.0 nF (C)
+	10K ->  10.0 kOhms (R)
+	10k ->  10.0 kOhms (R)
+	10p ->  10.0 pF (C)
+	10u ->  10.0 uF (C)
+	120K ->  120.0 kOhms (R)
+	150 ->  150.0 Ohms (R)
+	18.7K ->  18.7 kOhms (R)
+	18K ->  18.0 kOhms (R)
+	1u ->  1.0 uF (C)
+	2.2k ->  2.2 kOhms (R)
+	2.2u ->  2.2 uF (C)
+	2.4k ->  2.4 kOhms (R)
+	22.1K ->  22.1 kOhms (R)
+	3.3k ->  3.3 kOhms (R)
+	330 ->  330.0 Ohms (R)
+	39K ->  39.0 kOhms (R)
+	4.7k ->  4.7 kOhms (R)
+	4.7n ->  4.7 nF (C)
+	4.7u ->  4.7 uF (C)
+	4.7u ->  4.7 uH (L)
+	47k ->  47.0 kOhms (R)
+	47u ->  47.0 uF (C)
+	5.6k ->  5.6 kOhms (R)
+	510 ->  510.0 Ohms (R)
+	51p ->  51.0 pF (C)
+	560p ->  560.0 pF (C)
+	6.8M ->  6.8 MOhms (R)
+	88.7K ->  88.7 kOhms (R)
+	8p ->  8.0 pF (C)
+WARNING: column header(s) 'type' found multiple times (taking the first one)
+WARNING: unphysical value: 0.0 Ohms
+WARNING: unable to interpret: OBD2_connector
+WARNING: unable to interpret: red
+WARNING: unable to interpret: Yellow
+========================================
+WARNING: There were some warnings while importing the auto-generated CSV-file 'D:\github\KeetV2HW\PDNAnalyzer_Output\PowerSupplyV2\Unnamed simulation (1)\Results\tmp\design.csv'. Please review the auto-generated file under Parts Editor->Load (csv).
+========================================
+Unifying library padstacks...
+Finished reading database.
+============================================================

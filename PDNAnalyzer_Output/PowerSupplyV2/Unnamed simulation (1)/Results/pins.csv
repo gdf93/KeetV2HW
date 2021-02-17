@@ -1,0 +1,4 @@
+refdes,pin,voltage,current
+Conn1,16,11.9995,0.0001
+Conn1,4,0.0005,0.0
+M1,3,11.9995,-0.0001
