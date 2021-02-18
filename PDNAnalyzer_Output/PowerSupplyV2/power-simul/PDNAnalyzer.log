@@ -1,3 +1,4 @@
+eMessage_Info ODB file is out of date, regenerating it...
 eMessage_Info Begin analyzing power-simul
 eMessage_Info Generated the settings file: D:\github\KeetV2HW\PDNAnalyzer_Output\PowerSupplyV2\power-simul\PowerSupplyV2.py
 <<info>>
@@ -69,10 +70,6 @@ Running IR-Drop Solver
 0
 CST PI-DC solution
 <<end>>
-<<warning>>
-No DC path from following terminals:
-   No DC connection found for VCOMP11_1
-<<end>>
 <<progress>>
 10
 CST PI-DC solution
@@ -103,8 +100,8 @@ CST PI-DC solution
 <<info>>
 PI-DC analysis finished successfully.
 <<end>>
-Solver Process 6728 exited with code 0.
-eMessage_Info Simulation Progress: 10%
+Solver Process 5720 exited with code 0.
+eMessage_Info Simulation Progress: 83,26%
 <<info>>
 CST PI-DC Module [built: Mar 18 2018 / 22:44:35, version=Version 2018.4 Build: 20180318]
 <<end>>
@@ -174,10 +171,6 @@ Running IR-Drop Solver
 0
 CST PI-DC solution
 <<end>>
-<<warning>>
-No DC path from following terminals:
-   No DC connection found for VCOMP11_1
-<<end>>
 <<progress>>
 10
 CST PI-DC solution
@@ -208,7 +201,7 @@ CST PI-DC solution
 <<info>>
 PI-DC analysis finished successfully.
 <<end>>
-Solver Process 7292 exited with code 0.
+Solver Process 15680 exited with code 0.
 eMessage_Info Simulation Progress: 100%
 eMessage_Info Load and analyze result for power-simul
 eMessage_Info Found violations

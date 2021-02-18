@@ -1,5 +1,5 @@
 
-Importing D:\github\KeetV2HW\PDNAnalyzer_Output\PowerSupplyV2\power-simul\odb.tgz... [Wed Feb 17 22:17:42 2021]
+Importing D:\github\KeetV2HW\PDNAnalyzer_Output\PowerSupplyV2\power-simul\odb.tgz... [Thu Feb 18 19:07:47 2021]
 ============================================================
 Reading ODB++ database ...
 
@@ -40,9 +40,9 @@ Reading file odb/steps/pcb/layers/comp_+_top/components...
 Reading file odb/steps/pcb/layers/comp_+_bot/components...
 WARNING: different refdes prefixes in component group 4.7u: 
 	 C9
-	 C3
-	 L1
 	 C4
+	 L1
+	 C3
 	 C2
 INFO: 52 duplicate vertices ignored
 ========================================
