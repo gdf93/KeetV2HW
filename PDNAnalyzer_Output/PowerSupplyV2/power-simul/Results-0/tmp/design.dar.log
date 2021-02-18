@@ -1,5 +1,5 @@
 
-Importing D:\github\KeetV2HW\PDNAnalyzer_Output\PowerSupplyV2\power-simul\odb.tgz... [Thu Feb 18 19:07:47 2021]
+Importing D:\github\KeetV2HW\PDNAnalyzer_Output\PowerSupplyV2\power-simul\odb.tgz... [Thu Feb 18 20:27:30 2021]
 ============================================================
 Reading ODB++ database ...
 
@@ -39,11 +39,11 @@ Reading file odb/steps/pcb/layers/drill/features...
 Reading file odb/steps/pcb/layers/comp_+_top/components...
 Reading file odb/steps/pcb/layers/comp_+_bot/components...
 WARNING: different refdes prefixes in component group 4.7u: 
-	 C9
-	 C4
+	 C2
 	 L1
 	 C3
-	 C2
+	 C9
+	 C4
 INFO: 52 duplicate vertices ignored
 ========================================
 INFO: Created CSV file (D:\github\KeetV2HW\PDNAnalyzer_Output\PowerSupplyV2\power-simul\Results-0\tmp\design.csv) with component properties extracted from ODB++ file.
