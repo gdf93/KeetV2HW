@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PowerSupplyV2.GBR   24/02/2021  22:11:29
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Layer                               
+.gbr                Bottom Layer                            
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Bottom Overlay                          
+.gbr                Bottom Solder                           
+.gbr                Bottom Paste                            
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                Keep-Out Layer                          
+.gbr                Bottom Body information                 
+.gbr                Bottom Courtyard                        
+.gbr                Top Designator                          
+.gbr                Top Courtyard                           
+.gbr                Bottom Assembly                         
+.gbr                Top Assembly                            
+.gbr                Top Body information                    
+.gbr                Bottom Designator                       
+.gbr                Profile                                 
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+------------------------------------------------------------------------------------------

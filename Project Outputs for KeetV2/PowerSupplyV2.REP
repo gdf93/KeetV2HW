@@ -1,0 +1,540 @@
+*************************************************************
+FileName = PowerSupplyV2.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : PowerSupplyV2_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PowerSupplyV2_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D29
+    D30
+    D31
+    D34
+    D36
+    D37
+    D39
+    D40
+    D41
+    D42
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PowerSupplyV2_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D29
+    D30
+    D31
+    D34
+    D47
+    D48
+    D49
+    D50
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : PowerSupplyV2_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PowerSupplyV2_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PowerSupplyV2_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PowerSupplyV2_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D29
+    D30
+    D31
+    D34
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PowerSupplyV2_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D116
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PowerSupplyV2_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PowerSupplyV2_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D96
+    D99
+    D100
+    D102
+    D104
+    D107
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PowerSupplyV2_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Body information
+      File : PowerSupplyV2_Mechanical_13.gbr
+
+    Adding Layer      : Bottom Body information
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : PowerSupplyV2_Mechanical_4.gbr
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D78
+    D136
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : PowerSupplyV2_Mechanical_6.gbr
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+    D80
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : PowerSupplyV2_Mechanical_2.gbr
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D78
+    D136
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : PowerSupplyV2_Mechanical_5.gbr
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D77
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : PowerSupplyV2_Mechanical_3.gbr
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D77
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Top Body information
+      File : PowerSupplyV2_Mechanical_12.gbr
+
+    Adding Layer      : Top Body information
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Designator
+      File : PowerSupplyV2_Mechanical_7.gbr
+
+    Adding Layer      : Bottom Designator
+
+
+Used DCodes :
+    D80
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : PowerSupplyV2_Profile.gbr
+
+
+Used DCodes :
+    D138
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PowerSupplyV2_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D140
+    D141
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PowerSupplyV2_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D140
+*************************************************************
+
