@@ -233,118 +233,130 @@ DocumentPath=Project Outputs for KeetV2\KeetV2-BOM.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for KeetV2\Net Status - PowerSupply.html
+DocumentPath=Project Outputs for KeetV2\KeetV2.csv
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2.DRR
+DocumentPath=Project Outputs for KeetV2\KeetV2.xls
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2.EXTREP
+DocumentPath=Project Outputs for KeetV2\KeetV2.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2.LDP
+DocumentPath=Project Outputs for KeetV2\Net Status - PowerSupply.html
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2.REP
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2.RUL
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2.TXT
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2.REP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Drawing_1.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Drillmap_1.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Keep-out.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Legend_Bot.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Legend_Top.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Mechanical_2.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Mechanical_3.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Mechanical_4.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Mechanical_5.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Mechanical_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Mechanical_6.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Mechanical_3.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Mechanical_7.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Mechanical_4.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Mechanical_12.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Mechanical_5.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Mechanical_13.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Mechanical_6.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Pads_Bot.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Mechanical_7.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Pads_Top.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Mechanical_12.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Paste_Bot.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Mechanical_13.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Paste_Top.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Profile.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument31]
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument34]
 DocumentPath=Project Outputs for KeetV2\PowerSupplyV2_Soldermask_Top.gbr
 DItemRevisionGUID=
 
@@ -731,13 +743,13 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=ForceUpdateSettings
 Configuration1_Item2=False
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=False|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=False|IncludeAlternatives=True|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1844|FormHeight=1114|SupplierProdQty=1|SupplierAutoQty=True|SupplierUseCachedPricing=False|SupplierCurrency=EUR|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=True|BomSetName=
+Configuration1_Item3=OpenExported=False|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=False|IncludeAlternatives=True|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1844|FormHeight=1114|SupplierProdQty=1|SupplierAutoQty=True|SupplierUseCachedPricing=False|SupplierCurrency=EUR|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=True|BomSetName=
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=
 Configuration1_Name5=VisibleOrder
-Configuration1_Item5=Line #=53|Comment=139|Description=325|Designator=76|Quantity=65|Price=70|Manufacturer 1=98|Manufacturer Part Number 1=162|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=136|Supplier Unit Price 1=122|Supplier Subtotal 1=115
+Configuration1_Item5=Line #=53|Comment=139|Description=325|Designator=130|Quantity=65|Price=70|Manufacturer 1=98|Manufacturer Part Number 1=162|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=136|Supplier Unit Price 1=122|Supplier Subtotal 1=115
 Configuration1_Name6=VisibleOrder_Base
-Configuration1_Item6=Line #=53|Comment=139|Description=325|Designator=76|Quantity=65|Price=70|Manufacturer 1=98|Manufacturer Part Number 1=162|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=136|Supplier Unit Price 1=122|Supplier Subtotal 1=115
+Configuration1_Item6=Line #=53|Comment=139|Description=325|Designator=130|Quantity=65|Price=70|Manufacturer 1=98|Manufacturer Part Number 1=162|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=136|Supplier Unit Price 1=122|Supplier Subtotal 1=115
 Configuration1_Name7=VisibleOrder_Consolidated
 Configuration1_Item7=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=100|Manufacturer Part Number 1=100|Manufacturer Lifecycle 1=100|Supplier 1=100|Supplier Part Number 1=100|Supplier Unit Price 1=100|Supplier Subtotal 1=100
 Configuration1_Name8=VisibleOrder_Flat
