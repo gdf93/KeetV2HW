@@ -1,11 +1,11 @@
 Board Information Report
 Filename     : D:\github\KeetV2HW\PowerSupplyV2.PcbDoc
-Date         : 24/02/2021
-Time         : 22:27:44
+Date         : 06/03/2021
+Time         : 22:06:16
 Time Elapsed : 00:00:00
 
 General
-    Board Size, 1109milsx1457mils
+    Board Size, 28.1686mmx37.0078mm
     Components on board, 117
 count : 2
 
@@ -17,7 +17,7 @@ Routing Information
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 208, 0, 750, 0, 0, 7, 0
+    Top Layer, 0, 208, 0, 748, 0, 0, 7, 0
     Bottom Layer, 0, 183, 0, 575, 0, 0, 7, 0
     Top Courtyard, 0, 0, 0, 378, 0, 0, 0, 0
     Top Assembly, 16, 0, 0, 252, 0, 0, 0, 0
@@ -29,7 +29,7 @@ Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
     Bottom Body information, 0, 0, 0, 0, 0, 0, 0, 47
     Multi-Layer, 0, 30, 118, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 15, 0, 0, 40, 140, 0, 5, 0
+    Top Overlay, 15, 0, 0, 41, 140, 0, 5, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Overlay, 16, 0, 0, 25, 104, 0, 0, 0

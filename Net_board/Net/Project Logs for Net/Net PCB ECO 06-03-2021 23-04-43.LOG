@@ -1,0 +1,15 @@
+Added Component: Designator=SIM1(MFF2 SIM)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hologram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SIM-E-MFF2-GL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=5,43000, 10=4,87900, 25=4,61240, 100=3,99750, 250=3,79248, 500=3,40300 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2884"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1887-SIM-E-MFF2-GLCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SIM1-1
+Added Pin To Net: NetName=SIM_DATA Pin=SIM1-3
+Added Pin To Net: NetName=SIM_CLK Pin=SIM1-6
+Added Pin To Net: NetName=SIM_RST Pin=SIM1-7
+Added Pin To Net: NetName=SIM_VDD Pin=SIM1-8
+Added Pin To Net: NetName=GND Pin=SIM1-9
+Added Member To Class: ClassName=Net Member=Component SIM1 SIM-E-MFF2-GL
