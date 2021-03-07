@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GSM_VBAT Pin=C12-2
+Removed Pin From Net: NetName=GSM_VBAT Pin=C13-1
+Removed Pin From Net: NetName=GSM_VBAT Pin=C14-2
+Removed Pin From Net: NetName=SIM_DATA Pin=IC1-15
+Added Pin To Net: NetName=V4V Pin=C4-2
+Added Pin To Net: NetName=V4V Pin=C5-1
+Added Pin To Net: NetName=V4V Pin=C9-1
+Added Pin To Net: NetName=V4V Pin=C10-1
+Added Pin To Net: NetName=V4V Pin=C12-2
+Added Pin To Net: NetName=V4V Pin=C13-1
+Added Pin To Net: NetName=V4V Pin=C14-2
+Added Pin To Net: NetName=V4V Pin=IC1-34
+Added Pin To Net: NetName=V4V Pin=IC1-40
+Change Net Name : Old Net Name=NetC7_2 New Net Name=V3V3
+Added Pin To Net: NetName=BT_ANT Pin=IC1-20
+Added Net: Name=BT_ANT
+Added Pin To Net: NetName=GSM_ANT Pin=IC1-32
+Added Net: Name=GSM_ANT
+Added Pin To Net: NetName=NetD1_2 Pin=IC1-28
+Added Net: Name=NetD1_2

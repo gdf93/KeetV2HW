@@ -1,0 +1,25 @@
+Added Component: Designator=D1(SODFL250X75-2N)
+Add component (AddParameter): Name = "Average Rectified Current"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Rectifier Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.fairchildsemi.com/datasheets/SS/SS13HE.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.fairchildsemi.com/datasheets/SS/SS13HE.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor / Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SS13HE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Forward Surge Current (Ifsm)"; Value = "25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Repetitive Reverse Voltage (Vrrm)"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0,50000, 10=0,34900, 100=0,17640, 500=0,14392, 1000=0,10678 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Recovery Time"; Value = "5.6ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SS13HECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.006g"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V4V Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Member To Class: ClassName=Net Member=Component D1 SS13HE
