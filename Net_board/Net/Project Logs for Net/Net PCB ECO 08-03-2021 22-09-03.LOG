@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=868_VDD Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Member From Class: ClassName=Net Member=C9

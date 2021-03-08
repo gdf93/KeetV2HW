@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SIM_VDD Pin=C6-1
+Removed Pin From Net: NetName=SIM_VDD Pin=IC1-18
+Removed Pin From Net: NetName=SIM_VDD Pin=SIM1-8
+Change Net Name : Old Net Name=SIM_VDD New Net Name=868_VDD
+Added Pin To Net: NetName=SIM_VDD Pin=C6-1
+Added Pin To Net: NetName=SIM_VDD Pin=IC1-18
+Added Pin To Net: NetName=SIM_VDD Pin=SIM1-8
+Added Net: Name=SIM_VDD
